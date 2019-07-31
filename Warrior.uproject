@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{0AE4AC02-40B1-EEDC-57D4-EDBD581EF7B9}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Warrior",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ApexDestruction",
+			"Enabled": true
+		}
+	]
+}
