@@ -45,8 +45,11 @@ SourceArt/**/*.png
 SourceArt/**/*.tga
 
 # Binary Files
+Android_Multi/*
 Binaries/*
 Plugins/*/Binaries/*
+enc_temp_folder/*
+WindowsNoEditor/*
 
 # Builds
 Build/*
